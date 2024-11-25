@@ -95,9 +95,3 @@ This project utilizes data from the **American Community Survey** and the **Worl
 Data used in this project is provided by:
 - The American Community Survey
 - The World Bank's GDP and Education Statistics
-
-Special thanks to [Coursera](https://www.coursera.org/) for the project framework and datasets.
-
---- 
-
-Let me know if you need any edits! 😊
